@@ -30,7 +30,8 @@ which determined which of about 5 different motions it should make (ex: move to 
 SetGoal:
 Set the xy coordinates of the goal the robot wanted to push the ball into since depending on the match it could be either one. It read in a switch that would set the goal
 
-SetRobotBallEnemy: The radio read in 3 ball locations (red blue yellow I believe they were) Each would correspond to our robot their robot or the ball. Which was which would be set by a switch by the user at the begining of each match
+SetRobotBallEnemy:
+The radio read in 3 ball locations (red blue yellow I believe they were) Each would correspond to our robot their robot or the ball. Which was which would be set by a switch by the user at the begining of each match
 
 motorToSpin:
 Would convert motor vector values to digital and PWM signals used by our motor controller a T B 6 6 1 2 F N G
