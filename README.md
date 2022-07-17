@@ -3,6 +3,7 @@
 //Unfortunatly the code was still buggy at the time of competiton start so see Used in competiton Code for the used code
 //or see the Original Plan file to see the thick incomplete buggy code
 // It includes Ardunio control code and R Pi Code for computer vision
+//NOTE: code us ugly and does not use #include statements for functions because it would introduce aditional bugs (it'd be nice if the functions were in seperate files but they are not)
 
 List of Functions and their purpose:
 12_1_21_SerialCode:
